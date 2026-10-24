@@ -1,0 +1,63 @@
+Quaternius CC0 1.0 Assets
+========================
+
+Author: Rico Trebeljahr / Quaternius
+Creator site: https://quaternius.com/
+Model library: https://quaternius.trebeljahr.com/
+License: CC0 1.0 Universal (Public Domain Dedication)
+License text: https://creativecommons.org/publicdomain/zero/1.0/
+
+CC0 permits commercial use, modification, distribution, and use without
+attribution. Attribution is included here as a courtesy and for asset tracking.
+
+Bundled models
+--------------
+
+hero_ember.glb
+  Model: Adventurer.glb
+  Pack: Modular Men Pack
+  Source: https://quaternius.trebeljahr.com/modular_men_pack
+
+npc_guard.glb
+  Model: Medieval.glb
+  Pack: Modular Women Pack
+  Source: https://quaternius.trebeljahr.com/modular_women_pack
+
+enemy_slime.glb
+  Model: Enemy.glb
+  Pack: Platformer Game Pack
+  Source: https://quaternius.trebeljahr.com/platformer_game_pack
+
+enemy_spider.glb
+  Model: Spider.glb
+  Pack: Easy Enemies Pack
+  Source: https://quaternius.trebeljahr.com/easy_enemies_pack
+
+enemy_cultist.glb
+  Model: Witch.glb
+  Pack: Modular Women Pack
+  Source: https://quaternius.trebeljahr.com/modular_women_pack
+
+enemy_demon_dragon.fbx
+  Model: Dragon.fbx
+  Pack: Animated Monster Pack
+  Source: https://quaternius.com/packs/animatedmonster.html
+
+enemy_wraith_skeleton.fbx
+  Model: Skeleton.fbx
+  Pack: Animated Monster Pack
+  Source: https://quaternius.com/packs/animatedmonster.html
+
+enemy_brute.glb
+  Model: Trex.glb
+  Pack: Dinosaurs Pack
+  Source: https://quaternius.trebeljahr.com/dinosaurs_pack
+
+enemy_knight.glb
+  Model: KnightCharacter.glb
+  Pack: Single Knight Pack
+  Source: https://quaternius.trebeljahr.com/single_knight_pack
+
+The local HumanoidIdle animation assets are procedural poses authored for this
+project from the imported model bind poses. They do not include third-party
+animation data.

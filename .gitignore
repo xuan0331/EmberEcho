@@ -1,0 +1,57 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Windows player build output
+/D3D12/
+/Ember Echo_BurstDebugInformation_DoNotShip/
+/EmberEcho.exe
+/EmberEcho_Data/
+/MonoBleedingEdge/
+/UnityCrashHandler64.exe
+/UnityPlayer.dll
+/unity_BurstDebugInformation_DoNotShip/
+/Screenshots/
+/Assets/Screenshots/
+/Assets/Screenshots.meta
+
+# Local tooling and downloaded references
+/.codex-assets/
+/.downloads/
+/.tools/
+
+# IDE generated files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+sysinfo.txt
+crashlytics-build.properties
